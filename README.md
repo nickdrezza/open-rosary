@@ -90,6 +90,14 @@ We welcome contributions! Whether it's a new language, a bug fix, or a feature e
     -   Add it to the `locales` object exported at the top.
 4.  **Test**: Run the app and manually switch the URL to your new locale (e.g., `/fr-fr`) to verify.
 
-## 📄 License
+## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under [GNU AGPLv3 only](LICENSE) (`AGPL-3.0-only`).
+See [NOTICE](NOTICE) for copyright information.
+
+You can use, change, and sell copies under the license terms.
+If you distribute covered code, provide its source under the same license.
+If you change the project and let users access it over a network,
+offer those users the source of your version.
+
+Earlier releases keep the license terms that applied to them.

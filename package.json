@@ -1,5 +1,6 @@
 {
 	"name": "open-rosary",
+	"license": "AGPL-3.0-only",
 	"private": true,
 	"version": "2.1.0",
 	"type": "module",
